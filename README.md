@@ -1,0 +1,2 @@
+# bibliofox
+Bibliovie Firefox extension
