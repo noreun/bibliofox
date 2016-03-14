@@ -1,0 +1,5 @@
+content bibliofox jar:chrome/bibliofox.jar!/content/
+overlay chrome://browser/content/browser.xul chrome://bibliofox/content/overlay.xul
+skin bibliofox classic/0.1 jar:chrome/bibliofox.jar!/skin/
+style   chrome://global/content/customizeToolbar.xul    chrome://bibliofox/skin/overlay.css
+locale	bibliofox	en-US	jar:chrome/bibliofox.jar!/locale/en-US/
